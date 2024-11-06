@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+![logo](https://github.com/Sakshi0web/Sakshi0web/blob/main/Web-profile_thumbnail.png)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
